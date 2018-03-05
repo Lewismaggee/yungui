@@ -1,0 +1,4 @@
+15:01:35.286 [main] INFO  com.yungui.test.LogTest - 1込込,test1!!!
+15:01:35.306 [main] WARN  com.yungui.test.LogTest - 2込込,test2!!!
+15:01:35.311 [main] DEBUG com.yungui.test.LogTest - 3込込,test3!!!
+15:01:35.316 [main] ERROR com.yungui.test.LogTest - 4込込,test4!!!
